@@ -37,7 +37,7 @@ react-portfolio-template/
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/yourusername/react-portfolio-template.git
+git clone https://github.com/Austin-Jones/react-portfolio-template.git
 cd react-portfolio-template
 ```
 
@@ -82,4 +82,4 @@ This template is free for personal or commercial use. If you sell it or make som
 
 ---
 
-Built with ❤️ by [Your Name] · [yourwebsite.com]
+Built with ❤️ by Austin· [austinwjones.com]
