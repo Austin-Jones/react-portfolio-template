@@ -82,4 +82,4 @@ This template is free for personal or commercial use. If you sell it or make som
 
 ---
 
-Built with ❤️ by Austin· [Buy me a coffee](https://buymeacoffee.com/uIhQe1t)
+Built with ❤️ by Austin· [Buy me a coffee](https://buymeacoffee.com/austin_codes)
